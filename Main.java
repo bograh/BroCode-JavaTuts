@@ -1,6 +1,12 @@
 public class Main {
     public static void main(String[] args) {
+
+        // METHOD OVERLOADING ........ //
         // Pizza pizza = new Pizza("thicc crust", "tomato", "mozzarella", "pepperoni");
+        // Pizza pizza = new Pizza("thicc crust", "tomato", "mozzarella");
+        // Pizza pizza = new Pizza("thicc crust", "tomato");
+        // Pizza pizza = new Pizza("thicc crust");
+        // Pizza pizza = new Pizza();
         
         // System.out.println("Here are your pizza ingredients: ");
         // System.out.println(pizza.bread);
